@@ -1,5 +1,13 @@
   import React from 'react';
 
+  import { MuiThemeProvider, createMuiTheme } from '@material-ui/core/styles';
+
+  /**
+ * @TODO: Override the primary styles
+ */
+const theme = createMuiTheme({
+  direction: 'ltr', // Both here and <body dir="rtl">
+});
 
   /**
    * Defines the root component of the react app. <App /> is the top most component in hierarchy
