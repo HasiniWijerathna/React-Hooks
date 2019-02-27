@@ -14,7 +14,7 @@ Read more [Hooks](https://reactjs.org/docs/hooks-overview.html#-state-hook) on R
 ## Requirements
 For development, you will only need Node.js installed on your environement.
 
-Node
+## Node
 Node is really easy to install & now include NPM. You should be able to run the following command after the installation procedure below.
 
 ## Install
