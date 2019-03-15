@@ -35,6 +35,3 @@ $ npm start
 $ npm run build
 ```
 
-
-And More will be coming on "Building Your Own Hooks", "Effect Hook" and much more badass features :neckbeard: :v:
-
