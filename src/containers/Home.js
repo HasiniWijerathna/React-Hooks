@@ -105,7 +105,7 @@ function Home() {
     We make two variables using the retun values of useState with array destructuring
     The first item is the current value, and the second is a function that lets us update it
 
-    Here my todos array contains with todo objects
+    Here's my todos array contains with todo objects
    */
    const [todos, setTodos] = useState([
      {
